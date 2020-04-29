@@ -1,0 +1,3 @@
+store_id,address,address2,district,postal_code,city,country,store_last_upd,address_last_upd,city_last_update,country_last_upd
+1,47 MySakila Drive,,Alberta,,Lethbridge,Canada,2006-02-15 09:57:12,2006-02-15 09:45:30,2006-02-15 09:45:25,2006-02-15 09:44:00
+2,28 MySQL Boulevard,,QLD,,Woodridge,Australia,2006-02-15 09:57:12,2006-02-15 09:45:30,2006-02-15 09:45:25,2006-02-15 09:44:00

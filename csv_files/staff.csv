@@ -1,0 +1,3 @@
+staff_id,first_name,last_name,email,active,username,password,picture,address,address2,district,postal_code,city,country,staff_last_upd,address_last_upd,city_last_upd,country_last_upd
+1,Mike,Hillyer,Mike.Hillyer@sakilastaff.com,t,Mike,8cb2237d0679ca88db6464eac60da96345513964,\x89504e470d0a5a0a,23 Workhaven Lane,,Alberta,,Lethbridge,Canada,2006-05-16 16:13:11.79328,2006-02-15 09:45:30,2006-02-15 09:45:25,2006-02-15 09:44:00
+2,Jon,Stephens,Jon.Stephens@sakilastaff.com,t,Jon,8cb2237d0679ca88db6464eac60da96345513964,,1411 Lillydale Drive,,QLD,,Woodridge,Australia,2006-05-16 16:13:11.79328,2006-02-15 09:45:30,2006-02-15 09:45:25,2006-02-15 09:44:00
